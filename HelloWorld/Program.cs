@@ -11,7 +11,7 @@ namespace HelloWorld
         static void Main(string[] args)
         {
             #region Пример 1
-
+            Console.WriteLine("Что нибудь");
             #endregion
 
         }
